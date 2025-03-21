@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Amansahu9053
-- 👀 I’m interested in ..Full stack dvelopment
-- 🌱 I’m currently learning ...Node js
+- 👀 I’m a full time Software Engineer💻
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...amansahu9053@gmail.com
 
